@@ -1,0 +1,14 @@
+C:\Users\bledi\api-beni-tat\bin\Debug\net6.0\api-beni-tat.exe
+C:\Users\bledi\api-beni-tat\bin\Debug\net6.0\api-beni-tat.deps.json
+C:\Users\bledi\api-beni-tat\bin\Debug\net6.0\api-beni-tat.runtimeconfig.json
+C:\Users\bledi\api-beni-tat\bin\Debug\net6.0\api-beni-tat.dll
+C:\Users\bledi\api-beni-tat\bin\Debug\net6.0\api-beni-tat.pdb
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.AssemblyInfoInputs.cache
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.AssemblyInfo.cs
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.csproj.CoreCompileInputs.cache
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.dll
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\refint\api-beni-tat.dll
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.pdb
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\api-beni-tat.genruntimeconfig.cache
+C:\Users\bledi\api-beni-tat\obj\Debug\net6.0\ref\api-beni-tat.dll
